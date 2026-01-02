@@ -3,7 +3,7 @@ import os
 import urllib.request
 from datetime import datetime
 
-JSON_FILE = "C:\\Users\\hind_\\Downloads\\mydata~1767330837078"
+JSON_FILE = r"C:\Users\hind_\Downloads\mydata~1767330837078"
 OUTPUT_DIR = "D:\\Memory DNLD\\Attempt #30"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
